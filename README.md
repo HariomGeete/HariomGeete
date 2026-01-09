@@ -1,55 +1,94 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **Java + Spring Boot Projects**<br>- 🌱 I’m currently learning **Advanced Spring Security & Docker**<br>- 💬 Ask me about **Java, Spring Boot, React, and REST APIs**<br>- 📫 How to reach me **hariomgeete2@gmail.com**<br>
+<!-- ============================ -->
+<!--   H A R I O M   G E E T E    -->
+<!--   ACCESS LEVEL: ROOT USER    -->
+<!-- ============================ -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Hariom+Geete+%3A+Root+Access+Granted...;%3E+Full+Stack+Developer;%3E+Spring+Boot+%7C+React+%7C+Mobile+Apps;%3E+Building+Backend+%2B+Frontend+%2B+Apps" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/hariom-geete) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Hariomgeete2@gmail.com) 
-
-# 💻 Tech Stack:
-<!-- Programming Languages -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-<!-- Frontend Frameworks & Libraries -->
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Framer Motion](https://img.shields.io/badge/framer--motion-%23000000.svg?style=flat&logo=framer&logoColor=%23FFFFFF)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-
-<!-- Backend Frameworks & Tools -->
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-
-<!-- Databases -->
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-
-<!-- Build & Deployment -->
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-
-<!-- Tools -->
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HariomGeete&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HariomGeete&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariomGeete&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <strong>💻 FULL STACK ENGINEER — JAVA, SPRING BOOT & REACT (Web + Mobile)</strong>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HariomGeete&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ whoami
+```bash
+$ whoami
+> Hariom Geete — builds, ships, scales.
+```
+
+### 🔥 current_ops
+```bash
+✔ Java + Spring Boot Microservices
+✔ React Frontend Interface Development
+✔ REST APIs + JWT + Spring Security
+~ Docker + Kubernetes loading...
+~ React Native + Expo + Firebase (mobile dev underway)
+```
+
+---
+
+## 🌐 connect
+<p align="center">
+<a href="https://hariomgeete.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://linkedin.com/in/hariom-geete"><img src="https://img.shields.io/badge/LINKEDIN-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:Hariomgeete2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF4444?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/HariomGeete"><img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+```bash
+$ visit Portfolio
+$ open linkedin
+$ connect --email
+$ clone HariomGeete
+```
+
+---
+
+## ⚙️ stack_snapshot (2025 build)
+```bash
+languages  : Java, JavaScript, C, HTML/CSS
+backend    : Spring Boot, Hibernate, JPA, REST APIs
+frontend   : React.js, TailwindCSS, Framer Motion
+mobile-dev : React Native, Expo, Firebase
+database   : MySQL | MongoDB | PostgreSQL
+devops     : Docker (learning), Render, Vercel
+tools      : Git, VS Code, Postman
+```
+
+---
+
+## 📈 Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HariomGeete&theme=chartreuse-dark&hide_border=true&show_icons=true"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariomGeete&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 mission_objectives
+```diff
++ Deploy fully containerized apps (Docker)
++ Launch first mobile app 
++ Design cloud-scalable architecture
++ Contribute to open source Spring projects
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HariomGeete&label=VISITORS&color=ff0062&style=for-the-badge" />
+</p>
+
+```bash
+$ exit
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/matrix.gif" width="100%"/>
+</p>
+
+<p align="center"><strong>Session Terminated — Awaiting Next Build ⚙️</strong></p>
