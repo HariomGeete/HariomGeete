@@ -36,7 +36,7 @@ $ whoami
 <a href="https://hariomgeete.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://linkedin.com/in/hariom-geete"><img src="https://img.shields.io/badge/LINKEDIN-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:Hariomgeete2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF4444?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/HariomGeete"><img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=white"></a>
+<!-- <a href="https://github.com/HariomGeete"><img src="https://img.shields.io/badge/GITHUB-24292E?style=for-the-badge&logo=github&logoColor=white"></a> -->
 </p>
 
 ```bash
