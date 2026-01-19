@@ -4,8 +4,9 @@
 <!-- ============================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Hariom+Geete+%3A+Root+Access+Granted...;%3E+Full+Stack+Developer;%3E+Spring+Boot+%7C+React+%7C+Mobile+Apps;%3E+Building+Backend+%2B+Frontend+%2B+Apps" />
+  <img src="assets/matrix-name.svg" />
 </p>
+
 
 <p align="center">
   <strong>💻 FULL STACK ENGINEER — JAVA, SPRING BOOT & REACT (Web + Mobile)</strong>
