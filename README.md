@@ -43,7 +43,6 @@ $ whoami
 $ visit Portfolio
 $ open linkedin
 $ connect --email
-$ clone HariomGeete
 ```
 
 ---
