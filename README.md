@@ -80,7 +80,7 @@ tools      : Git, VS Code, Postman
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HariomGeete&label=VISITORS&color=ff0062&style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HariomGeete.HariomGeete&left_color=black&right_color=ff0062&left_text=VISITORS" alt="Visitors" />
 </p>
 
 ~~~bash
@@ -88,7 +88,7 @@ $ exit
 ~~~
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/matrix.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Matrix Line" />
 </p>
 
 <p align="center"><strong>Session Terminated — Awaiting Next Build ⚙️</strong></p>
